@@ -18,6 +18,6 @@
 
 我重视可复现的过程，也会记录模型假设和验证范围。软件原型不等于硬件验证，策略回测也不代表未来收益。比起只展示结果，我更想分享问题怎样被拆解，工具怎样帮助判断。
 
-「南槿学社」正在筹备，希望和愿意动手、愿意分享的人一起读论文、做实验、积累知识。
+「南槿交易小组」正在筹备，围绕价格行为、订单流与交易自动化，交流研究笔记、复盘方法与工具实践。
 
-[个人网站与联系入口 · 搭建中](https://www.nanjin.online/#contact) · [GitHub](https://github.com/chenyh-code)
+[个人网站与联系入口](https://nanjin.online/#contact) · [GitHub](https://github.com/Nanjin-Lab)
