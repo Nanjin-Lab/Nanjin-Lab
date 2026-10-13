@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm 南槿 / Nanjin
 
-<!--
-**chenyh-code/chenyh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**在噪声之中寻找信号。**
 
-Here are some ideas to get you started:
+你好，我是南槿。我关注信号、智能感知与市场结构，喜欢把抽象问题拆开，用实验和代码建立可以检查的答案。这里记录我的研究方向、工具实践，以及还在不断修正的想法。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 科研探索 | 交易研究 |
+| --- | --- |
+| 雷达与信号处理、三维点云、多模态融合 | 价格行为、订单流、交易自动化 |
+| 探索大模型辅助阅读与知识组织 | 关注数据边界、规则复现与回测假设 |
+
+最近在做的事：
+
+- **FMCW 工作台**：串起信号链计算、频谱观察与数据回放，让处理过程更容易解释。
+- **点云融合实验**：从基线复现到多模型与时序几何，整理可以比较的实验记录。
+- **射频与数据采集工具**：连接参数规划、配置检查、解析和可视化，减少重复劳动。
+- **Pine Script v6 策略原型**：把研究规则写成代码，检查时间边界、成本与失效条件。
+
+我重视可复现的过程，也会记录模型假设和验证范围。软件原型不等于硬件验证，策略回测也不代表未来收益。比起只展示结果，我更想分享问题怎样被拆解，工具怎样帮助判断。
+
+「南槿学社」正在筹备，希望和愿意动手、愿意分享的人一起读论文、做实验、积累知识。
+
+[个人网站与联系入口 · 搭建中](https://www.nanjin.online/#contact) · [GitHub](https://github.com/chenyh-code)
